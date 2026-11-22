@@ -1,4 +1,5 @@
-<img width="1169" height="2234" alt="bot" src="https://github.com/user-attachments/assets/87f920bc-7001-4cce-ac76-3899d314b665" />
+<img width="500" height="800" alt="bot" src="https://github.com/user-attachments/assets/87f920bc-7001-4cce-ac76-3899d314b665" />
+
 #  Telegram-бот «Дневник настроения»
 
 Асинхронный Telegram-бот для отслеживания ежедневного настроения с текстовой аналитикой и графиками.
